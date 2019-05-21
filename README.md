@@ -1,2 +1,2 @@
-# GenGTools.-Extractor-pre-alpha-
-This pypeline is provided for creating supplementary sequences with high coding potential from assembly graph, which can be created, for example, by SPAdes.
+THIS PRODUCT IS OBSOLETE. ACTUAL VERSION OF THE GENGTOOS.EXTRACTOR IS PLACED HERE:
+https://github.com/petrovsn/GenGTools.Extractor
